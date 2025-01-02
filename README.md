@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1ihueDeTl2XiYDiVMYBKpGygnBMG91pIW/view?usp=shari
 
 ## Screenshots
 
-![Demo output](https://github.com/abhroroy365/Tennis-Tracker/blob/master/output/output_video.gif)
+![Demo output](./output/output_video.gif)
 
 
 ## Run Locally
