@@ -11,7 +11,7 @@ import sys
 sys.path.append('../')
 DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-with open('training/config.yml','r') as f:
+with open('config.yml','r') as f:
    config = yaml.load(f,Loader=yaml.SafeLoader)
 
 
